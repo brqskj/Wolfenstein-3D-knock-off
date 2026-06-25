@@ -1,0 +1,7 @@
+- add enemies
+- add weapons
+- add progression
+- make levels
+
+- learn DDA
+- fix fishlense effect
